@@ -1,0 +1,13 @@
+db.sqlite3
+venv/
+venveb/
+.vscode/
+.env
+*.log
+*.pot
+*.pyc
+*__pycache__/
+local_settings.py
+
+.env
+customerapp/migrations/*
