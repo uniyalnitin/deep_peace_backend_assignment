@@ -1,8 +1,12 @@
 # deep_peace_backend_assignment
 Install all the required files as listed in requirements.txt
-sqlite database is used for the purpose of demostration. 
+#
+sqlite database is used for the purpose of demostration.
+# 
 Run makemigrations
+#
 Create Database (using migrate command)
+#
 run the server 
 #
 url parameter against each json object, is for navigation purpose
